@@ -18,3 +18,5 @@ jobs:
           plugin_languages_limit: 8
           plugin_lines: yes
           plugin_lines_history_limit: 5000
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
